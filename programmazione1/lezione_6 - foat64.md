@@ -92,7 +92,22 @@ func main(){
 convertire la media da 30esimi in 110mi
 
 ```go
+package main
 
+import "fmt"
+
+const COSTANTE_110esimi = 110
+const COSTANTE_30esimi = 30
+
+func main() {
+    var media, media_calcolata float64
+    fmt.Print("inserisci qui la media da trasformare: ")
+    fmt.Scan(&media)
+    
+    media_calcolata = media * COSTANTE_110esimi / COSTANTE_30esimi
+    //29:30=x:110
+    fmt.Println("la media calcolata su", media, "/ 30 è", media_calcolata, "/ 110")
+}
 ```
 
 ## ALTRI OPERATORI:
