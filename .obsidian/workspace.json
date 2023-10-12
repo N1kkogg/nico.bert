@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "programmazione1/lezione_7 - if e bool.md",
+                "file": "programmazione1/lezione_8 - for.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "programmazione1/lezione_7 - if e bool.md",
+                "file": "programmazione1/lezione_8 - for.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "programmazione1/lezione_7 - if e bool.md",
+                "file": "programmazione1/lezione_8 - for.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "programmazione1/lezione_7 - if e bool.md"
+                "file": "programmazione1/lezione_8 - for.md"
               }
             }
           }
@@ -148,13 +148,17 @@
   },
   "active": "7fe7faec68419f9b",
   "lastOpenFiles": [
-    "relazione-uomo-macchina/lezione_4.md",
+    "relazione-uomo-macchina/lezione_5.md",
+    "programmazione1/lezione_8 - for.md",
+    "README.md",
+    "Untitled.canvas",
+    "2023-10-10.md",
     "programmazione1/lezione_7 - if e bool.md",
+    "relazione-uomo-macchina/lezione_4.md",
     "programmazione1/lezione_6 - foat64.md",
     "programmazione1/lezione_4 - token.md",
     "programmazione1/lezione_5 - variabili.md",
     "relazione-uomo-macchina/lezione_3.md",
-    "README.md",
     "relazione-uomo-macchina",
     "mate-del-continuo",
     "programmazione1"
