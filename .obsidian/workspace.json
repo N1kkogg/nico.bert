@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "programmazione1/lezione_9 - for zerario.md",
+                "file": "programmazione1/lezione_10 - funzioni.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c01925eff9be0405",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "programmazione1/lezione_11 - interi con segno.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "programmazione1/lezione_9 - for zerario.md",
+                "file": "programmazione1/lezione_11 - interi con segno.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "programmazione1/lezione_9 - for zerario.md",
+                "file": "programmazione1/lezione_11 - interi con segno.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,11 +138,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "programmazione1/lezione_9 - for zerario.md"
+                "file": "programmazione1/lezione_11 - interi con segno.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -146,19 +160,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7fe7faec68419f9b",
+  "active": "d4e76e3233d53367",
   "lastOpenFiles": [
-    "programmazione1/lezione_8 - for.md",
+    "programmazione1/lezione_10 - funzioni.md",
+    "programmazione1/lezione_11 - interi con segno.md",
     "programmazione1/lezione_9 - for zerario.md",
-    "programmazione1/lezione_7 - if e bool.md",
+    "programmazione1/lezione_5 - variabili.md",
+    "programmazione1/lezione_6 - foat64.md",
+    "programmazione1/lezione_4 - token.md",
     "relazione-uomo-macchina/lezione_5.md",
+    "programmazione1/lezione_8 - for.md",
+    "programmazione1/lezione_7 - if e bool.md",
     "README.md",
     "Untitled.canvas",
     "2023-10-10.md",
     "relazione-uomo-macchina/lezione_4.md",
-    "programmazione1/lezione_6 - foat64.md",
-    "programmazione1/lezione_4 - token.md",
-    "programmazione1/lezione_5 - variabili.md",
     "relazione-uomo-macchina/lezione_3.md",
     "relazione-uomo-macchina",
     "mate-del-continuo",
