@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "programmazione1/lezione_11 - interi con segno.md",
+                "file": "programmazione1/lezione_13.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "programmazione1/lezione_11 - interi con segno.md",
+                "file": "programmazione1/lezione_13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "programmazione1/lezione_11 - interi con segno.md",
+                "file": "programmazione1/lezione_13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "programmazione1/lezione_11 - interi con segno.md"
+                "file": "programmazione1/lezione_13.md"
               }
             }
           }
@@ -160,10 +160,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d4e76e3233d53367",
+  "active": "c01925eff9be0405",
   "lastOpenFiles": [
-    "programmazione1/lezione_10 - funzioni.md",
+    "programmazione1/lezione_12 - sequenze di escape - string.md",
+    "programmazione1/lezione_13.md",
     "programmazione1/lezione_11 - interi con segno.md",
+    "programmazione1/lezione_10 - funzioni.md",
     "programmazione1/lezione_9 - for zerario.md",
     "programmazione1/lezione_5 - variabili.md",
     "programmazione1/lezione_6 - foat64.md",
