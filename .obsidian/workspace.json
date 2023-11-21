@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "programmazione1/lezione_10 - funzioni.md",
+                "file": "programmazione1/lezione_21 printf e slice multidimensionali.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "programmazione1/lezione_13.md",
+                "file": "programmazione1/lezione_17 - pointers.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "programmazione1/lezione_13.md",
+                "file": "programmazione1/lezione_21 printf e slice multidimensionali.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "programmazione1/lezione_13.md",
+                "file": "programmazione1/lezione_21 printf e slice multidimensionali.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "programmazione1/lezione_13.md"
+                "file": "programmazione1/lezione_21 printf e slice multidimensionali.md"
               }
             }
           }
@@ -160,16 +159,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c01925eff9be0405",
+  "active": "7fe7faec68419f9b",
   "lastOpenFiles": [
+    "programmazione1/lezione_20 - ARGOMENTI DI COMANDO.md",
+    "programmazione1/lezione_17 - pointers.md",
+    "programmazione1/lezione_21 printf e slice multidimensionali.md",
+    "programmazione1/lezione_10 - funzioni.md",
+    "programmazione1/lezione_16 - bufio.md",
+    "programmazione1/lezione_15 - utility.md",
+    "programmazione1/lezione_4 - token.md",
     "programmazione1/lezione_12 - sequenze di escape - string.md",
     "programmazione1/lezione_13.md",
     "programmazione1/lezione_11 - interi con segno.md",
-    "programmazione1/lezione_10 - funzioni.md",
     "programmazione1/lezione_9 - for zerario.md",
     "programmazione1/lezione_5 - variabili.md",
     "programmazione1/lezione_6 - foat64.md",
-    "programmazione1/lezione_4 - token.md",
     "relazione-uomo-macchina/lezione_5.md",
     "programmazione1/lezione_8 - for.md",
     "programmazione1/lezione_7 - if e bool.md",
