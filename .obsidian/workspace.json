@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "programmazione1/lezione_21 printf e slice multidimensionali.md",
+                "file": "programmazione1/lezione_26 - methods.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "programmazione1/lezione_21 printf e slice multidimensionali.md",
+                "file": "programmazione1/lezione_26 - methods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "programmazione1/lezione_21 printf e slice multidimensionali.md",
+                "file": "programmazione1/lezione_26 - methods.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "programmazione1/lezione_21 printf e slice multidimensionali.md"
+                "file": "programmazione1/lezione_26 - methods.md"
               }
             }
           }
@@ -161,9 +161,11 @@
   },
   "active": "7fe7faec68419f9b",
   "lastOpenFiles": [
+    "programmazione1/lezione_23 - recursive func.md",
+    "programmazione1/lezione_26 - methods.md",
+    "programmazione1/lezione_21 printf e slice multidimensionali.md",
     "programmazione1/lezione_20 - ARGOMENTI DI COMANDO.md",
     "programmazione1/lezione_17 - pointers.md",
-    "programmazione1/lezione_21 printf e slice multidimensionali.md",
     "programmazione1/lezione_10 - funzioni.md",
     "programmazione1/lezione_16 - bufio.md",
     "programmazione1/lezione_15 - utility.md",
